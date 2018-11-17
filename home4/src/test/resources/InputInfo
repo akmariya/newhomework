@@ -1,0 +1,9 @@
+{
+ "site":"https://www.shop.by/",
+ "login":"295408091",
+ "password":"testuser1",
+  "nameUser":"userShop",
+  "outputFileChrome":"ListChrome.csv",
+  "outputFileFireFox":"ListFireFox.csv",
+  "outputFileIE":"ListIE.csv"
+}
